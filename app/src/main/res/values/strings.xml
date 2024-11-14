@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">navbarrr</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile </string>
+
+    <string name="content_description_avatar_image">Default Avatar Image</string>
+    <string name="const_text_setting" />
+    <string name="const_text_name">Kobe Bryant </string>
+    <string name="content_nomor_telpon">Nomer Telpon </string>
+    <string name="const_email">Email </string>
+    <string name="content_description_btn_app_setting" />
+    <string name="dummy_value">$735</string>
+    <string name="title">Bipolar Disorder</string>
+    <string name="content_text">gangguan mental yang menyebabkan perubahan suasana hati ekstrem, antara episode depresi dan mania (kegembiraan berlebihan atau energi tinggi). Selama fase depresi, seseorang mungkin merasa sangat sedih, kehilangan minat, atau kelelahan. Sebaliknya, dalam fase mania, mereka bisa merasa sangat gembira, impulsif, atau memiliki dorongan energi yang berlebihan. Kondisi ini mempengaruhi kemampuan seseorang dalam menjalani aktivitas sehari-hari dan sering kali memerlukan perawatan jangka panjang seperti terapi atau obat-obatan untuk mengelola gejalanya.</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Pemicu</string>
+    <string name="content_specs_display">
+        - Stress
+        - perubahan pola tidur
+        - penggunaan obat-obatan tertentu bisa memicu episode.</string>
+    <string name="size">Penanganan</string>
+    <string name="content_specs_size">Terapi kombinasi
+stabilisator suasana hati
+antidepresan</string>
+    <string name="battery">Battery</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+        Standby time (LTE): up to 19 days\n
+        Talk time (3g/WCDMA): up to 26 hours\n
+        Internet use time (Wi-Fi): up to 13 hours\n
+        Internet use time (LTE): up to 13 hours\n
+        Video playback: up to 13 hours\n
+        Audio playback (via headset): up to 110 hours\n
+        Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Narenda Wicaksono</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_photos">6 photos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
